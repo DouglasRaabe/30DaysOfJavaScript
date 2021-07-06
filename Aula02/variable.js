@@ -12,3 +12,5 @@ let max = Math.floor(100), max2 = Math.floor(255)
 
 let textB = 'JavaScript'
 let pos = Math.floor(Math.random() * (textB.length - min)+ min)
+
+let textC = 'You cannot end a sentence with because because because is a conjunction'

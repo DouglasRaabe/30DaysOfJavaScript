@@ -57,3 +57,10 @@ console.log('Random number btw 50 to 100: '+Math.floor(Math.random() * (max - mi
 console.log('Random number btw 0 to 255: '+Math.floor(Math.random() * (max2 - min + 1)+ min))
 // Day02 10
 console.log(textB+'-> Posição:'+pos+' Letra: '+textB[pos])
+// Day02 11
+console.log('1\t1\t1\t1\t1\n2\t1\t2\t4\t8\n3\t1\t3\t9\t27\n4\t1\t4\t16\t64\n5\t1\t5\t25\t125')
+// Day02 12
+console.log(textC)
+console.log(textC.substr(31, 7))
+console.log(textC.substr(39, 7))
+console.log(textC.substr(47, 7))
