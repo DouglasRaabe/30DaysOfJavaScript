@@ -1,10 +1,16 @@
-// Dia01 04
-let firstName = 'Asabeneh'    
-let lastName = 'Yetayeh'      
-let country = 'Finland'       
-let city = 'Helsinki'         
-let age = 100                 
+// Dia01 04, 06, 07, 08
+let firstName = 'Douglas'    
+let lastName = 'Lima'      
+let country = 'brasil'       
+let city = 'Fortaleza'         
+let age = 32
 let isMarried = true
+
+// Dia01 09
+let firstName2 = 'Douglas', lastName2 = 'Lima', country2 = 'brasil', city2 = 'Fortaleza', age2 = 32, isMarried2 = true
+
+// DIa01 10
+let yourAge = 29, myAge = 32
 
 const gravity = 9.81
 const boilingPoint = 100
