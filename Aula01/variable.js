@@ -13,3 +13,6 @@ const PI = 3.14
 let name = 'Asabeneh',
     job = 'teacher',
     live = 'Finland'
+
+    // Dia01 05
+let var1, var2, var3, va4
